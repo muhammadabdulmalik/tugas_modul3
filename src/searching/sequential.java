@@ -43,7 +43,7 @@ public class sequential {
         
         
         System.out.println();
-        System.out.println("Fajar wahyu pratama");
+        System.out.println("Muhammad Abdul Malik");
         System.out.println("** Terimakasih **");
     }
 }
